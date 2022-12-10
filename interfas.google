@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UFT-8"/>
+        <title>Interfas Google</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+<header>
+    <nav>
+        <ul>
+            <li><a href=""></a> Gmail</li>
+            <li><a href=""></a >Imagenes</li>
+            <li><a href=""></a> </li>
+            <li><a href=""></a> <img src="https://www.ehimarsalud.com/wp-content/uploads/2022/03/C038F8D3-1B3C-419A-8C7F-80E0714BFCB2.jpeg"></li>
+            
+        </ul>
+    </nav>
+</header>
+    <main>
+        <section class="main-logo">
+            <img src="https://www.dealerworld.es/archivos/201509/google-logo.jpg"alt="Google-icono">
+        </section>
+        <section>
+            <div>
+                <span></span>
+                <input type="text">
+                <a></a>
+            </div>
+        </section>
+        <section>
+            <div>
+                <button>Buscar el Google</button>
+            </div>
+            <div>
+                <button>Me siento con suerte</button>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <ul>
+            <li>Publicidadd</li>
+            <li>Negosios</li>
+            <li>Acerca de </li>
+        </ul>
+        <ul>
+            <li>Privasidad</li>
+            <li>Condiciones</li>
+            <li>Preferencias</li>
+        </ul>
+    </footer>
+
+</html>
